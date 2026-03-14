@@ -1,6 +1,6 @@
 /*
 ==================================================
-SQL Phase 1: Core Basics (SELECT, FROM, WHERE)
+topic Name: Core Basics ( SELECT, FROM, WHERE )  
 ==================================================
 
 Topic Explanation:
