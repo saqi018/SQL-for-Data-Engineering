@@ -1,6 +1,6 @@
 /*
 ==================================================
-SQL Phase 1: Advanced WHERE Clauses
+Topic Name: Advanced WHERE Clauses
 ==================================================
 
 Topic Explanation:
@@ -17,11 +17,7 @@ Topic Explanation:
 SELECT FirstName, Country
 FROM Users
 WHERE
-    Country IN (
-        'Pakistan',
-        'France',
-        'Canada'
-    );
+    Country IN ('Pakistan', 'India', 'China');
 
 /* Goal 2: Find users with a balance between 100 and 500 (Using BETWEEN) */
 SELECT FirstName, AccountBalance
