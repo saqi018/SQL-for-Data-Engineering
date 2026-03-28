@@ -1,0 +1,9 @@
+SELECT CAST('500' AS INT);
+
+SELECT CAST('2026-03-17' AS DATE);
+
+SELECT CAST('StringSalary' AS DECIMAL) FROM Raw_Employee_Data;
+
+SELECT CAST('Staring_age' AS INT)
+
+SELECT CAST('String_signup_date' AS DATE)
