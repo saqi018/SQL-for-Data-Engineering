@@ -2,10 +2,6 @@
 ==================================================
 SQL Phase 1: Aggregate Functions
 ==================================================
-About this file:
-- Explains how to mathematically summarize millions of rows into a single value.
-- Covers the "Big 5" functions: COUNT, SUM, AVG, MIN, MAX.
-
 Topic Explanation:
 - In Data Engineering, you rarely need to look at individual rows. You need summaries (Total Revenue, Average Order Size).
 - Aggregate functions "squish" all the rows in a column together and apply math to them.
