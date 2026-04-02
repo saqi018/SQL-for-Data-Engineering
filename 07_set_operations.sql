@@ -14,8 +14,8 @@ Topic Explanation:
 -- ==================================================
 -- 1️⃣ SOLVED EXAMPLES
 -- ==================================================
-/* Table 1: US_Customers (Name, Email)
-Table 2: UK_Customers (Name, Email)
+/* Table 1: UK_Customers (Name, Email)
+Table 2: US_Customers (Name, Email)
 */
 
 /* Goal 1: Stack EVERYTHING. Keep all duplicates. */
