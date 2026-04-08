@@ -2,9 +2,6 @@
 ==================================================
 SQL Phase 2: Conditional Logic (CASE WHEN)
 ==================================================
-About this file:
-- Explains how to create conditional "if/else" logic in SQL.
-- CASE WHEN acts as a robotic sorter, reading rules top-to-bottom and assigning a new label.
 
 Topic Explanation:
 - The structure MUST contain: CASE, WHEN, THEN, ELSE, and END AS.
