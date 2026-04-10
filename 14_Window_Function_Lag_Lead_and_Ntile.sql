@@ -64,3 +64,15 @@ Columns: StudentName, Score
 */
 
 -- TODO 3: Write a query that divides the students into 3 equal performance tiers (Top Tier, Middle Tier, Bottom Tier) based on their Score (Highest to Lowest).
+
+-- ==================================================
+-- 3️⃣ IMPORTANT INTERVIEW QUESTIONS
+-- ==================================================
+
+/*
+Q1: What happens to the very first row when you use the LAG() function?
+Ans: The database will return a NULL value for the new column on the very first row, because there is no "previous" row to pull data from.
+
+Q2: Can you specify how many rows back LAG() should look?
+Ans: Yes! The syntax is LAG(Column, Offset). If you write LAG(Revenue, 2), it will look 2 rows backward instead of just 1.
+*/
